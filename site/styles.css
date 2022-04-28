@@ -1,0 +1,26 @@
+
+.sprite1 {
+	background: url('img/image_sprites.png') no-repeat -36px -42px;
+	width: 150px;
+	height: 104px;
+	position: center;
+	}
+.sprite2 {
+	background: url('img/image_sprites.png') no-repeat -438px -30px;
+	width: 124px;
+	height: 128px;
+}
+.sprite3 {
+	background: url('img/image_sprites.png') no-repeat -436px -406px;
+	width: 128px;
+	height: 128px;
+	}
+.sprite4 {
+	background: url('img/image_sprites.png') no-repeat -436px -218px;
+	width: 128px;
+	height: 128px;
+	}
+footer{
+	display: inline-flex;
+	padding:30px 50px;
+}
